@@ -7,3 +7,4 @@ I'm a passionate code newbie who is just beginning to explore the vast and excit
 👩‍💻 Practicing coding challenges to sharpen my problem-solving skills.
 🤝 Collaborating on beginner-friendly projects to build my portfolio.
 
+update
